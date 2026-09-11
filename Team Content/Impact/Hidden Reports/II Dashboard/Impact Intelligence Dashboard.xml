@@ -5763,7 +5763,7 @@ Peer Definition ID'</reportExpression>
                                     <contents>
                                       <textItem>
                                         <dataSource>
-                                          <staticValue>Data Mart Name:</staticValue>
+                                          <staticValue>Data Mart Name: </staticValue>
                                         </dataSource>
                                       </textItem>
                                     </contents>
